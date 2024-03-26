@@ -16,8 +16,5 @@ MTS (MikyTuber Shell) is a simple Unix shell implemented in C language. It provi
 ### Contributions
 Contributions are welcome! Feel free to explore, modify, and extend the shell according to your needs. 
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Author
 Piotr / MikyTuberr | email: pio1342@gmail.com
